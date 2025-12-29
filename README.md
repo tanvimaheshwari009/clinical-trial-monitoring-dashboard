@@ -27,3 +27,6 @@ This project showcases a Power BI dashboard designed to monitor key operational 
 
 ## Use Case
 This dashboard supports CRAs, study managers, and clinical operations teams in identifying visit delays, compliance risks, and site performance issues in real time.
+
+## Note: This project uses fully simulated and anonymized data for educational and portfolio purposes only.
+
