@@ -23,7 +23,7 @@ This project showcases a Power BI dashboard designed to monitor key operational 
 ![Core Dashboard](core_dashboard.png)
 
 ### Advanced Monitoring
-![Advanced Monitoring](advanced_monitoring.png)
+![Advanced Monitoring](https://github.com/tanvimaheshwari009/clinical-trial-monitoring-dashboard/blob/main/advanced%20monitoring.png)
 
 ## Use Case
 This dashboard supports CRAs, study managers, and clinical operations teams in identifying visit delays, compliance risks, and site performance issues in real time.
