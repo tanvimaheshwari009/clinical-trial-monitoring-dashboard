@@ -19,7 +19,7 @@ This project showcases a Power BI dashboard designed to monitor key operational 
 ## Dashboard Preview
 
 ### Core Dashboard
-![Core Dashboard](core_dashboard.png)
+![Core Dashboard](https://github.com/tanvimaheshwari009/clinical-trial-monitoring-dashboard/blob/main/core%20dashboard.png)
 
 ### Advanced Monitoring
 ![Advanced Monitoring](https://github.com/tanvimaheshwari009/clinical-trial-monitoring-dashboard/blob/main/advanced%20monitoring.png)
